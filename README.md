@@ -1,4 +1,4 @@
-# Projeto da 1 Semana do Bootcamp CodeRDIversity
+# Projeto da 1ª Semana do Bootcamp CodeRDIversity
 
 ## Enunciado do Exercício 
 
